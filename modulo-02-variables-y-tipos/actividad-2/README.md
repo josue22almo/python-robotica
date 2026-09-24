@@ -33,10 +33,9 @@ Crear las variables que describen un robot e imprimirlas con su tipo.
 
 | Criterio | Peso |
 |---|---|
-| Las 5 variables existen con el tipo correcto | 40 % |
+| Las 5 variables existen con el tipo correcto | 50 % |
 | Se muestra valor y tipo de cada una | 30 % |
-| Nombres de variables claros y sin acentos ni espacios | 20 % |
-| Comentario explicando qué es la ficha del robot | 10 % |
+| Nombres de variables claros y sin acents ni espacios | 20 % |
 
 ## Pista de cara al futuro
 
