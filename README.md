@@ -45,7 +45,7 @@ Dentro de cada actividad, crearás una carpeta `/solucion` donde subirás el có
       hola-salida.txt   # la salida de la consola, en un fichero
 ```
 
-Cuando el enunciado pida la salida del programa, guárdala en un fichero de texto llamado `<nombre-del-programa>-salida.txt` dentro de `solucion/`. No pegues la salida en el mensaje del commit.
+Cuando el enunciado pida la salida del programa, guárdala en un fichero de texto llamado `<nombre-del-programa>-salida.txt` dentro de `solucion/`.
 
 Commitea a menudo. Una entrega con un solo commit de 400 líneas no se revisa.
 
