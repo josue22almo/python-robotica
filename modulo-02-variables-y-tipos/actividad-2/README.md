@@ -22,20 +22,21 @@ Crear las variables que describen un robot e imprimirlas con su tipo.
    - `encendido` (booleano): si está encendido o no.
 2. Muestra el valor de cada variable **en su propia línea**.
 3. Muestra en la misma línea el nombre de cada variable, su valor y su tipo. Usa `type()` para obtener el tipo. Por ejemplo, si `nombre = "Titán"`, la salida puede parecerse a `nombre: Titán (str)`.
-4. Ejecuta el programa y comprueba que los 5 tipos son los que esperabas.
+4. Ejecuta el programa, comprueba que los 5 tipos son los que esperabas y guarda la salida en `solucion/ficha-salida.txt`.
 
 ## Entregable
 
 - `solucion/ficha.py`.
-- La salida de la consola.
+- `solucion/ficha-salida.txt` con la salida de la consola.
 
 ## Criterios de evaluación
 
 | Criterio | Peso |
 |---|---|
-| Las 5 variables existen con el tipo correcto | 50 % |
-| Se muestra valor y tipo de cada una | 30 % |
-| Nombres de variables claros y sin acents ni espacios | 20 % |
+| Las 5 variables existen con el tipo correcto | 40 % |
+| Se muestra valor y tipo de cada una | 25 % |
+| Nombres de variables claros y sin acentos ni espacios | 10 % |
+| La salida está guardada en `ficha-salida.txt` | 25 % |
 
 ## Pista de cara al futuro
 
