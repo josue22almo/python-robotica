@@ -6,11 +6,11 @@
 
 ## Contexto
 
-Hay valores que en un robot no cambian nunca: el número de ruedas, la longitud de una vuelta, la constante `PI`. Esos se escriben en MAYÚSCULAS para que cualquier persona que lea el código sepa que no se tocan.
+Hay valores que en un robot no cambian nunca: el número de ruedas, los pasos que da el motor en una vuelta o una constante matemática como `PI`. Esos se escriben en MAYÚSCULAS para que cualquier persona que lea el código sepa que no se tocan.
 
 ## Objetivo
 
-Distinguir constantes de variables y usarlas en un cálculo real.
+Distinguir constantes de variables y aprender a declararlas y mostrarlas en Python.
 
 ## Lo que debes hacer
 
@@ -19,27 +19,24 @@ Distinguir constantes de variables y usarlas en un cálculo real.
    - `PI = 3.14159`
    - `RUEDAS = 4`
    - `PASOS_POR_VUELTA = 1080`
-3. El robot da una vuelta completa a la rueda de radio `RADIO_RUEDA = 3.5` cm.
-4. Calcula e imprime:
-   - la longitud de una vuelta de la rueda, en cm;
-   - cuántas vueltas da el robot para recorrer **5 metros**;
-   - cuántos pasos de motor necesita para esa distancia.
-5. Declara además una variable normal (`distancia_objetivo = 500`) para comprobar que las constantes y las variables conviven.
+3. Muestra el valor de cada constante en su propia línea.
+4. Declara una variable normal (`nombre_robot = "Titán"`) y muestra también su valor en su propia línea. Así podrás comparar cómo se escribe una constante y una variable.
+5. Guarda la salida del programa en `solucion/constantes-salida.txt`.
 
 ## Entregable
 
 - `solucion/constantes.py`.
-- La salida de la consola con los tres resultados.
+- `solucion/constantes-salida.txt` con la salida de la consola.
 
 ## Criterios de evaluación
 
 | Criterio | Peso |
 |---|---|
-| Todas las constantes declaradas en mayúsculas | 25 % |
-| Los cálculos son correctos (revisa las unidades) | 40 % |
-| Se usan las constantes en los cálculos, no números sueltos | 25 % |
-| Comentarios que explican las unidades | 10 % |
+| Las tres constantes están declaradas en MAYÚSCULAS | 40 % |
+| La variable normal se declara con minúsculas y se distingue de las constantes | 20 % |
+| Se muestran los valores de las constantes y de la variable | 20 % |
+| La salida está guardada en `constantes-salida.txt` | 20 % |
 
 ## Pista de cara al futuro
 
-La constante `PI` te volverá a aparecer en trigonometría cuando el robot trace una trayectoria curva. Acostúmbrate a escribir el número, la unidad y el significado en un comentario.
+Estas constantes las volverás a usar en el proyecto del robot. Por ahora, fíjate en la diferencia: las constantes van en MAYÚSCULAS y las variables normales en minúsculas.
