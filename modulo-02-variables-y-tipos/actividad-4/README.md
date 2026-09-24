@@ -39,4 +39,4 @@ Trabajar con booleanos y entender cómo se imprimen.
 
 ## Pista de cara al futuro
 
-Estas preguntas son la entrada del módulo de condiciones. Lo que aquí haces con cuatro `if` escritos a mano,soon lo harás con un `if` que decida la orden del robot.
+Estas preguntas son la entrada del módulo de condiciones. Lo que aquí haces con cuatro `if` escritos a mano, pronto lo harás con un `if` que decida la orden del robot.
