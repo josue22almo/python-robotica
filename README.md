@@ -73,4 +73,4 @@ El 60 % de la nota es el proyecto: un robot que funcione. Se hace en grupos y se
 
 ## Dudas
 
-Las dudas de código se preguntan en clase. Las de enunciado, en el aula de repos.
+Las dudas de código se preguntan en clase.
