@@ -63,7 +63,7 @@ Se aplican a todas las actividades. Los pesos concretos de cada actividad están
 |---|---|
 | El programa funciona y cumple el enunciado | 50 % |
 | Código claro: nombres buenos, sin repetir, funciones cortas | 20 % |
-| Comentarios y docstring donde toca | 10 % |
+| Comentarios | 10 % |
 | Commits y carpetas bien organizados | 10 % |
 | Conversación de IA subida, si la has usado | 10 % |
 
