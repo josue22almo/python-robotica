@@ -23,21 +23,20 @@ Escribir tu primer programa en Python y comprobar que funciona.
    - tu nombre,
    - el nombre del robot que quieres construir este curso,
    - una frase de cinco palabras o menos con lo que esperas de esta asignatura.
-3. Añade **un comentario** al principio del fichero explicando qué hace el programa.
-4. Ejecuta el programa y comprueba que la salida es la que esperabas.
+3. Ejecuta el programa y guarda lo que sale por pantalla en un fichero `hola-salida.txt`, dentro de `solucion/`.
 
 ## Entregable
 
 - `solucion/hola.py` con el código.
-- La salida de la consola en el mensaje del commit.
+- `solucion/hola-salida.txt` con la salida de ejecutarlo.
 
 ## Criterios de evaluación
 
 | Criterio | Peso |
 |---|---|
 | El programa se ejecuta y muestra las tres líneas | 60 % |
-| Hay un comentario que explica el programa | 20 % |
-| El fichero está en `solucion/` y el commit tiene un mensaje claro | 20 % |
+| La salida está guardada en `hola-salida.txt` | 25 % |
+| El código está en `solucion/` y el commit tiene un mensaje claro | 15 % |
 
 ## Pista de cara al futuro
 
