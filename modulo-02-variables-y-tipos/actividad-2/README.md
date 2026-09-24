@@ -21,7 +21,7 @@ Crear las variables que describen un robot e imprimirlas con su tipo.
    - `bateria` (entero): los minutos de autonomía que le quedan.
    - `encendido` (booleano): si está encendido o no.
 2. Muestra el valor de cada variable **en su propia línea**.
-3. Muestra también el **tipo** de cada variable (`type`) en la misma línea, del estilo `nombre: robot = Titán (str)`.
+3. Muestra en la misma línea el nombre de cada variable, su valor y su tipo. Usa `type()` para obtener el tipo. Por ejemplo, si `nombre = "Titán"`, la salida puede parecerse a `nombre: Titán (str)`.
 4. Ejecuta el programa y comprueba que los 5 tipos son los que esperabas.
 
 ## Entregable
