@@ -37,12 +37,15 @@ Cada módulo del curso tiene sus actividades. La estructura es:
 Dentro de cada actividad, crearás una carpeta `/solucion` donde subirás el código. Esta es la estructura que espero:
 
 ```shell
-/modulo-02-variables-y-tipos
-  /actividad-4
+/modulo-01-hola-mundo
+  /actividad-1
     README.md
     /solucion
-      main.py
+      hola.py
+      hola-salida.txt   # la salida de la consola, en un fichero
 ```
+
+Cuando el enunciado pida la salida del programa, guárdala en un fichero de texto llamado `<nombre-del-programa>-salida.txt` dentro de `solucion/`. No pegues la salida en el mensaje del commit.
 
 Commitea a menudo. Una entrega con un solo commit de 400 líneas no se revisa.
 
