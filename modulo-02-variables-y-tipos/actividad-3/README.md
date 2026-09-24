@@ -42,4 +42,4 @@ Distinguir constantes de variables y usarlas en un cálculo real.
 
 ## Pista de cara al futuro
 
-La constante `PI` te volverá a aparecer en trigonometría cuando el robotTrace una trayectoria curva. Acostúmbrate a escribir el número, la unidad y el significado en un comentario.
+La constante `PI` te volverá a aparecer en trigonometría cuando el robot trace una trayectoria curva. Acostúmbrate a escribir el número, la unidad y el significado en un comentario.
