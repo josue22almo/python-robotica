@@ -37,4 +37,4 @@ Romper un programa a propósito, encontrar el fallo con herramientas y documenta
 | Comentarios y documentación | 20 % |
 
 ## Pista de cara al futuro
-Cuando programéis el robot, los sensores fallarán, los cables se soltarán y el códigoFormatted tendrá que robusterse. Depurar bien es una habilidad de primer orden, no un extra.
+Cuando programéis el robot, los sensores fallarán, los cables se soltarán y el código tendrá que ser robusto. Depurar bien es una habilidad de primer orden, no un extra.
