@@ -6,7 +6,7 @@
 
 ## Contexto
 
-Todo lo que un robot sabe de sí mismo (su nombre, cuántas ruedas tiene, cuánto pesa la batería, si está encendido) acaba guardado en variables. Antes de他能 tomar decisiones necesita poder nombrar esas cosas.
+Todo lo que un robot sabe de sí mismo (su nombre, cuántas ruedas tiene, cuánto pesa la batería, si está encendido) acaba guardado en variables. Antes de poder tomar decisiones necesita poder nombrar esas cosas.
 
 ## Objetivo
 
@@ -40,4 +40,4 @@ Crear las variables que describen un robot e imprimirlas con su tipo.
 
 ## Pista de cara al futuro
 
-Estas variablessoon las usarán todas: cuando el robot tenga que decidir si avanza, comparará la batería. Fíjate en cuáles son números y cuáles son texto.
+Estas variables las usarán todas: cuando el robot tenga que decidir si avanza, comparará la batería. Fíjate en cuáles son números y cuáles son texto.
